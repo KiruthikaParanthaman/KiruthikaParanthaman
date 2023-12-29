@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything about data,data and data! I was Wonderstuck, when i first realised about the potential of data.        
                         Who dont?! :)
 - 🌱 I’m currently learning R, Tableau, Python, SQL
-- - 📫 How to reach Feel free to mail me at kirti.win@gmail.com
+- - 📫 How to reach Feel free to mail me at winnie.2303@gmail.com
 
 <!---
 KiruthikaParanthaman/KiruthikaParanthaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
