@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KiruthikaParanthaman 
 - 👀 I’m interested in everything about data,data and data! I was Wonderstuck, when i first realised about the potential of data.        
                         Who dont?! :)
-- 🌱 I’m currently learning R, Tableau, Python, SQL
+- 🌱 I’m currently learning Python,Mysql,Mongodb, R, Tableau
 - - 📫 How to reach Feel free to mail me at winnie.2303@gmail.com
 
 <!---
